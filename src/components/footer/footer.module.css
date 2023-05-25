@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  color: rgba(37, 37, 37, 0.4);
+  width: 360px;
+  font-size: 14px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: underline;
+}

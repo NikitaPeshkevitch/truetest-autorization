@@ -1,0 +1,24 @@
+.inputWrapper {
+  position: relative;
+}
+
+.input {
+  border: 0;
+  outline: none;
+  width: 360px;
+  height: 50px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  font-size: 14px;
+  padding-left: 16px;
+}
+
+.input:focus {
+  outline: 1px solid #0bc279;
+}
+
+.eyeIcon {
+  position: absolute;
+  right: 40px;
+  top: 18px;
+}

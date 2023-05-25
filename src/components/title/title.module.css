@@ -1,0 +1,20 @@
+.title {
+  min-width: 360px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-bottom: 24px;
+  color: #252525;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 24px;
+  padding-bottom: 24px;
+}
+
+.textTwo {
+  font-size: 16px;
+}

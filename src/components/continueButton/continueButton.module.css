@@ -1,0 +1,20 @@
+.continueButton {
+  width: 360px;
+  height: 50px;
+  border-radius: 8px;
+  font-size: 14px;
+  background-color: #0bc279;
+  outline: none;
+  border: 0;
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-weight: 440;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.continueButton:active {
+  background-color: #10b171;
+}

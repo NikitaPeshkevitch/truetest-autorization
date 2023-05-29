@@ -11,11 +11,16 @@ export function Main() {
     <div className={css.main}>
       <Title />
       <div className={css.inputBox}>
-        <Input type="text" placeholder="Введите e-mail" />
+        <Input
+          type="text"
+          placeholder="Введите e-mail"
+          showClearButton={true}
+        />
         <Input
           type="password"
           placeholder="Введите или придумайте пароль"
           showPasswordIcon={true}
+          showClearButton={true}
         />
       </div>
       <div className={css.forgot}>

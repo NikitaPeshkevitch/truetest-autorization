@@ -22,3 +22,9 @@
   right: 40px;
   top: 18px;
 }
+
+.clearButton {
+  position: absolute;
+  right: 70px;
+  top: 18px;
+}
